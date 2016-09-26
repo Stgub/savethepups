@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					19D68DC81D99988A00A25CB6 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = T4B85P4F7X;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T4B85P4F7X;
 				INFOPLIST_FILE = SaveThePups/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stevengraf.SaveThePups;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T4B85P4F7X;
 				INFOPLIST_FILE = SaveThePups/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stevengraf.SaveThePups;
